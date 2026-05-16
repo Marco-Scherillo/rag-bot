@@ -1,0 +1,6 @@
+venv/
+chromadb/
+__pycache__/
+.env
+docs/*
+!docs/.gitkeep
